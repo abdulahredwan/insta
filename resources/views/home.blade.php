@@ -7,7 +7,7 @@
 <img src="/svg/q.jpg" class="rounded-circle" style="height:120px;">
      </div>
      <div class="col-9" pt-5>
-       <div ><h1>Abdulahi-Redwan</h1></div>
+       <div ><h1>{{$user->username}}</h1></div>
          <div class="d-flex">
              <div class="pr-4">
                <strong>213</strong>Posts
